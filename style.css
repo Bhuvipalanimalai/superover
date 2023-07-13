@@ -1,0 +1,23 @@
+body{
+    background-color: blueviolet;
+}
+.team{
+    height: 200px;
+    width: 40%;
+    background-color: aliceblue;
+    padding: 20px;
+    margin-right: 20px;
+    float: left;
+}
+button{
+    width: 500px;
+    font-size: 32px;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: darkgreen;
+    color: azure;
+}
+.winner{
+    background-color: darkblue;
+    color: aliceblue;
+}
